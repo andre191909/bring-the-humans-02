@@ -1,5 +1,8 @@
 # Bring the humans to make.fun
 
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/andre191909/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/andre191909/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![make.fun](https://img.shields.io/badge/make.fun-earn%20USDC-brightgreen)](https://make.fun)
 [![Referral](https://img.shields.io/badge/referral-8tg15t0t-blue)](https://make.fun/r/8tg15t0t)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
